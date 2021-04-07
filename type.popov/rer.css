@@ -1,0 +1,78 @@
+#top{
+    width: 90%;
+    height: 40px;
+    background-color: #869c96;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+#foto{
+   
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 200px;
+    height: 10%;
+}
+#shrek{
+    margin-left: 10%;
+    width: 250px;
+    height: 350px;
+}
+#glavnaya{
+    background-color: #869c96;
+    float: right;
+    width: 70%;
+    height: 850px;
+    margin-right: 5%;
+    margin-top: 50px;
+}
+#mne{
+    background-color: #77a5;
+    border-radius: 1;
+    text-align: left;
+    width:90%;
+    height: 150px;
+    margin: auto;
+}
+text{
+    font-family:'Times New Roman', Times, serif;
+}
+#otzivi{
+    background-color: #77a5;
+    border-radius: 1;
+    text-align: left;
+    width:90%;
+    height: 150px;
+    margin: auto;
+}
+#otzivi1{
+    background-color: #77a5;
+    border-radius: 1;
+    text-align: left;
+    width:90%;
+    height: 250px;
+    margin: auto;
+}
+#dva{
+    font-style:oblique;
+    font-weight:bolder;
+    font-size:20pt;
+}
+body{
+        background: url('images/pr.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        opacity: 0.9;
+}
+#back{
+    background-color: rgba(61, 189, 140, 0.568);
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 100%;
+}
+
